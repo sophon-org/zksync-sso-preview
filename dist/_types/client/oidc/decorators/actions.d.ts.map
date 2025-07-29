@@ -1,0 +1,1 @@
+{"version":3,"file":"actions.d.ts","sourceRoot":"","sources":["../../../../../src/client/oidc/decorators/actions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,KAAK,wBAAwB,EAAE,MAAM,oCAAoC,CAAC;AAEzG,MAAM,MAAM,oBAAoB,GAAG;IACjC,oBAAoB,EAAE,CAAC,IAAI,EAAE,IAAI,CAAC,wBAAwB,EAAE,WAAW,CAAC,KAAK,UAAU,CAAC,OAAO,oBAAoB,CAAC,CAAC;CACtH,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"getEip712Domain.d.ts","sourceRoot":"","sources":["../../../../src/client/utils/getEip712Domain.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,cAAc,EAAgB,KAAK,+BAA+B,EAAE,KAAK,6BAA6B,EAA4C,MAAM,aAAa,CAAC;AAOpL,eAAO,MAAM,eAAe,EAAE,cAAc,CAC1C,6BAA6B,EAC7B,+BAA+B,CAmChC,CAAC"}

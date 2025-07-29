@@ -1,0 +1,1 @@
+{"version":3,"file":"serialize.d.ts","sourceRoot":"","sources":["../../../../src/client/oidc/serialize.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,GAAG,EAAE,MAAM,MAAM,CAAC;AAEhC,MAAM,MAAM,QAAQ,GAAG;IACrB,UAAU,EAAE,GAAG,CAAC;IAChB,GAAG,EAAE,MAAM,CAAC;IACZ,cAAc,EAAE,OAAO,CAAC;IACxB,kBAAkB,EAAE,GAAG,CAAC;IACxB,YAAY,EAAE,MAAM,CAAC;IACrB,OAAO,EAAE,MAAM,CAAC;CACjB,CAAC"}
