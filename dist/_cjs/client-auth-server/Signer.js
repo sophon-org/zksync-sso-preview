@@ -160,7 +160,7 @@ class Signer {
         if (!this.account)
             throw new Error("Account is not set");
         if (!chainInfo)
-            throw new Error(`Chain info for ${chain} wasn't set during handshake`);
+            throw new Error(`Chain info for ${JSON.stringify(chain)} wasn't set during handshake`);
         if (session) {
             this.client = {
                 type: "session",
